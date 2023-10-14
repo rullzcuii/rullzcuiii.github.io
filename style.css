@@ -1,0 +1,82 @@
+{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.home{
+    height: 100%;
+    width: 100%;
+    background-color: #000000;
+    font-size: larger;
+    color:#00fff2;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 8%;
+    padding-left: 8%;
+    font-size: 20px;
+    background-color: #000000;
+    color: #00fff2;
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+.logo {
+    color: #00fff2;
+    border: none;
+    font-weight: bold;
+    padding: 5px 15px;
+    font-size: 25pt;
+    transition: transform .5s;
+}
+.logo:hover {
+    transform: scale(1.2);
+    border: none;
+    background-color: (0,191,255);
+}
+.gojo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: white;
+    text-indent: 20px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+.teks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    color: white;
+    text-indent: 20px;
+}
+.satoru{
+    color: white;
+    font-size: 20px;
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    padding: 15px 20px;
+    text-indent: 5vw;
+}
+.ruu{
+    color: white;
+    font-size: 20px;
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    padding: 15px 20px;
+    text-indent: 5vw;
+}

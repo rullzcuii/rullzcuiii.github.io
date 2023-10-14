@@ -1,0 +1,120 @@
+{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.about{
+    height: 100%;
+    width: 100%;
+    background-color: #000000;
+    font-size: larger;
+    color:#00fff2;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 8%;
+    padding-left: 8%;
+    font-size: 20px;
+    background-color: #000000;
+    color: #00fff2;
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+.logo {
+    color: #00fff2;
+    border: none;
+    font-weight: bold;
+    padding: 5px 15px;
+    font-size: 25pt;
+    transition: transform .5s;
+}
+.logo:hover {
+    transform: scale(1.2);
+    border: none;
+    background-color: (0,191,255);
+}
+.gojo{
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 8px;
+    padding-left: 8px;
+    justify-content: center;
+    color: white;
+}
+.image1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+.about1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    color: white;
+    text-indent: 20px;
+}
+.about{
+    color: white;
+    font-size: 1.2vw;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.2;
+    padding: 15px 20px;
+}
+.image2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+}
+.kepribadian1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    color: white;
+    text-indent: 20px;
+}
+.kepribadian{
+    color: white;
+    font-size: 1.2vw;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.2;
+    padding: 15px 20px;
+}
+.image3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fakta1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    color: white;
+    text-indent: 20px;
+}
+.fakta{
+    color: white;
+    font-size: 1.2vw;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.2;
+    padding: 15px 20px;
+}

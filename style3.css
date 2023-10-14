@@ -1,0 +1,118 @@
+{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.gallery{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    font-size: larger;
+    color:#00fff2;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 8%;
+    padding-left: 8%;
+    font-size: 20px;
+    background-color: black;
+    color: #00fff2;
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+.logo {
+    color: #00fff2;
+    border: none;
+    font-weight: bold;
+    padding: 5px 15px;
+    font-size: 25pt;
+    transition: transform .5s;
+}
+.logo:hover {
+    transform: scale(1.2);
+    border: none;
+    background-color: (0,191,255);
+}
+.gojo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-indent: 20px;
+}
+.image1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+.image2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+.image3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+.image4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+.image5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+.image6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+.image7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+.image8{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+.image9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
